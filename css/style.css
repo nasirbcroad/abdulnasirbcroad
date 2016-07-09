@@ -1,0 +1,42 @@
+.nav-link i{
+	font-size: 130%;
+	color: #967ADC;
+	font-weight: bolder;
+}
+.con-info a{
+	display: none;
+}
+h4{
+	color:#A03E23;
+	font-size:150%;
+}
+blockquote{
+	border-left-color: #A03E23;
+}
+hr,.brown{
+	color:#A03E23;
+}
+.nav-tabs li a{
+	background-color: #967ADC;
+	color: #000000;
+	font-size: 110%;
+	font-weight: bold;
+}
+.tab-pane img{
+	width:100%;
+	height:200px;
+	margin-bottom:15px;
+}
+.border-btm{
+	border-bottom: #A03E23 3px solid;
+}
+.img-rounded{
+	width:75px;
+	height:75px;
+}
+.item{
+	padding: 50px;
+}
+.m0-50-0-50{
+	margin:0px 50px;
+}
