@@ -6,6 +6,12 @@
 .con-info a{
 	display: none;
 }
+@media (min-device-width: 250px) and (max-device-width: 700px) { 
+	.mainCon{
+	margin-left: 30px;
+	margin-right: 30px;
+	}
+}
 h4{
 	color:#A03E23;
 	font-size:150%;
@@ -39,4 +45,20 @@ hr,.brown{
 }
 .m0-50-0-50{
 	margin:0px 50px;
+}
+.footerT{
+ 	width: 100%;
+ 	padding: 20px;
+ 	bottom: 0px;
+ 	background-color: #A03E23;
+}
+.footerT a{
+	font-size: 120%;
+	color: #F5F7FA;
+}
+.copyrightT{
+	margin-top: 20px;
+	font-size: 80%;
+	text-align: center;
+	color:#E0E1E5;
 }
